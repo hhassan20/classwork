@@ -4,7 +4,7 @@
 
 <p> Here are a few examples.<p>  
   
-Go to lists [Link](Lists.md)
+Go to [lists.](Lists.md)
 
 Example of a picture [Pic](picture.md)
 
@@ -15,3 +15,5 @@ Another one!
 
 
 Code block link ['Hello'](Codeblock.md)
+
+Here is a [general info](aboutme.md) file
