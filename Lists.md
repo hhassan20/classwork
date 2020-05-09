@@ -1,5 +1,6 @@
 # Lists  
-## This is an example of a list  
+## A couple examples 
+
 1. List **one**  
   -Dogs  
   -Cats  
